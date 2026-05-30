@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rajesh Patil 👋
 
-<!--
-**rajeshpatil0251-cmd/Rajeshpatil0251-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student
 
-Here are some ideas to get you started:
+💻 Interested in Web Development, Java and Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 CTF Participant
+
+📜 Certificates:
+- Code Fiesta
+- Capture The Flag (CTF)
+- Gaming Event Certificates
+
+🌱 Currently Learning:
+- Java
+- Web Technologies
+- Ethical Hacking
+
+📫 Connect with me on LinkedIn
